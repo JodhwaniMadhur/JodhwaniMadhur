@@ -2,7 +2,7 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" />, I'm Madhur Jodhwani</h1>
-<h3 align="center">Nm, just obsessed with Chess♟, Machine Learning👨🏻‍💻 and</h3>
+<h3 align="center">Nm, just obsessed with Chess♟, Machine Learning👨🏻‍💻 and Gaming🎮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JodhwaniMadhur&label=Profile%20views&color=0e75b6&style=flat" alt="Madhur" /> </p>
 
