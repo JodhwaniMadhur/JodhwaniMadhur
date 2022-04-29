@@ -2,7 +2,7 @@
     alt="Waving hand animated gif"
     height="45"
     width="45" />, I'm Madhur Jodhwani</h1>
-<h3 align="center">Nm, just obsessed with Chess♟, Machine Learning👨🏻‍💻 and Gaming🎮</h3>
+<h3 align="center">NM, just obsessed with Chess♟, SaaS👨🏻‍💻 and Gaming🎮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JodhwaniMadhur&label=Profile%20views&color=0e75b6&style=flat" alt="Madhur" /> </p>
 
@@ -13,7 +13,7 @@
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/JodhwaniMadhur" target="blank"><img src="https://img.shields.io/twitter/follow/JodhwaniMadhur?logo=twitter&style=for-the-badge" alt="MJ7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/coder_jodhwani" target="blank"><img src="https://img.shields.io/twitter/follow/coder_jodhwani?logo=twitter&style=for-the-badge" alt="MJ7" /></a> </p>
 
 - 📫 How to reach me **jodhwanimadhur@gmail.com**
 <br><br>
@@ -21,16 +21,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/JodhwaniMadhur" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JodhwaniMadhur" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/coder_jodhwani" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="JodhwaniMadhur" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/madhur-jodhwani-303290169/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="MJi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/madhur.jpeg" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mj" height="50" width="50" /></a>
 </p>
 
 <hr>
 
-<p align="center">
+<!---<p align="center">
 <img src="https://github.com/JodhwaniMadhur/JodhwaniMadhur/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p>-->
 
 
 **Languages and Tools:**
